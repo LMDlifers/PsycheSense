@@ -1,4 +1,4 @@
-# Mental Health Analysis Application
+# PsycheSense Application
 
 ## Overview
 
