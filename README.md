@@ -2,8 +2,13 @@
 
 ## Overview
 
-This application analyzes social media posts to detect signs of mental health issues and provides insights. It uses LlamaIndex for semantic analysis and can integrate with social media platforms' APIs for data collection.
+PsycheSense leverages cutting-edge technology to analyze social media posts, detecting early signs of mental health issues and providing valuable insights. By harnessing the power of LlamaIndex for semantic analysis, the application can understand and interpret complex patterns and behaviors in online interactions. It seamlessly integrates with various social media platforms' APIs to collect real-time data, ensuring comprehensive and up-to-date monitoring.
 
+The core functionality revolves around sophisticated natural language processing algorithms that assess the emotional and psychological state reflected in users' posts. By doing so, it identifies potential indicators of mental health challenges, such as depression, anxiety, or suicidal tendencies. The insights generated from this analysis are designed to support individuals by offering timely recommendations and resources, helping them seek appropriate help and interventions.
+
+Moreover, the application maintains a user-centric approach by implementing privacy-preserving techniques to ensure that personal data is protected while still delivering meaningful and actionable information. This tool not only aids individuals in their mental health journey but also provides healthcare professionals with data-driven insights to enhance their diagnostic and treatment processes.
+
+In summary, this application stands as a comprehensive solution for mental health monitoring and support, utilizing advanced AI and semantic analysis to bridge the gap between social media activity and mental health awareness.
 
 ## Features
 
